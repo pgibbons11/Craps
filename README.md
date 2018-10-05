@@ -1,1 +1,1 @@
-# Craps
+# Craps by Patrick Gibbons
