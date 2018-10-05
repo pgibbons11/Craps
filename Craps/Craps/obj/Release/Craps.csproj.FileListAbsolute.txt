@@ -1,0 +1,16 @@
+C:\Users\Patrick\Desktop\Craps\Craps\bin\Release\PlayerInfo.mdf
+C:\Users\Patrick\Desktop\Craps\Craps\bin\Release\PlayerInfo_log.ldf
+C:\Users\Patrick\Desktop\Craps\Craps\bin\Release\Craps.exe.config
+C:\Users\Patrick\Desktop\Craps\Craps\bin\Release\Craps.exe
+C:\Users\Patrick\Desktop\Craps\Craps\bin\Release\Craps.pdb
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.EditDeletePlayer.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.EditScreen.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.LoadPlayer.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.Menu.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.NewPlayer.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.Play.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.Properties.Resources.resources
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.csproj.GenerateResource.cache
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.exe
+C:\Users\Patrick\Desktop\Craps\Craps\obj\Release\Craps.pdb
